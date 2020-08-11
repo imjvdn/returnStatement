@@ -10,7 +10,7 @@ namespace returnStatement
     {
         static void Main(string[] args)
         {
-            int cubedNumber = cube(5);
+            int cubedNumber = cube(10);
             Console.WriteLine(cubedNumber);
             //Console.WriteLine(cube(5));
             Console.ReadLine();
